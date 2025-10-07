@@ -7,7 +7,6 @@ This repository is a ✨ _special_ ✨ one because its `README.md` is the very f
 
 ### 🚀 About Me
 - 🔭 Exploring backend development in **Java** — building real-world projects with clean architecture.
-- 🌱 Learning **Spring Boot**, **RESTful APIs**, and diving deep into **data structures & algorithms**.
 - 👯 Eager to collaborate on open-source Java libraries and algorithmic challenges.
 - 💬 Ask me about **Java foundations**, **MySQL integrations**, or elegant algorithm patterns.
 - 📫 Reach me at **[janarthananr1105@gmail.com](mailto:janarthananr1105@gmail.com)**.
